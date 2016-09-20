@@ -1,0 +1,14 @@
+# Usign the Clean Blog theme
+
+title: L'algèbre discrète de la transformée de Fourier
+author: Gabriel Peyré
+email: gabriel.peyre@ens.fr
+description: Site web du livre "L'algèbre discrète de la transformée de Fourier"
+url: "http://adtf-livre.github.io/"
+baseurl: ""
+github_username:  adtf-livre
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+exclude: ["node_modules"]
